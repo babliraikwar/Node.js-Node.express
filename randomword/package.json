@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "random": "^5.3.0",
+    "words": "^0.3.0"
+  }
+}
